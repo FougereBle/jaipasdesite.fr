@@ -2,8 +2,8 @@
 
 Code source complet du site jaipasdesite.fr
 
-Techno utilisées : HTML
-Editeur de code : Bloc Note
+- Techno utilisées : HTML
+- Editeur de code : Bloc Note
 
 Tous les assets du site sont protégés.
 
